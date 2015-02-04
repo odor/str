@@ -1,4 +1,5 @@
 out/
+.idea/
 string.iml
 *.class
 
